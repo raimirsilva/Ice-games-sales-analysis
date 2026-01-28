@@ -1,4 +1,4 @@
-# 🎮 Ice Game Sales Analysis
+# 🎮 Ice Games Sales Analysis
 
 **Análise de Dados de Vendas de Videogames para Planejamento Estratégico**
 
@@ -123,10 +123,10 @@ scipy
 ### **Instalação**
 ```bash
 # Clone o repositório
-git clone https://github.com/raimirsilva/ice-game-sales-analysis.git
+git clone https://github.com/raimirsilva/Ice-games-sales-analysis.git
 
 # Navegue até o diretório
-cd ice-game-sales-analysis
+cd Ice-games-sales-analysis
 
 # Instale as dependências
 pip install -r requirements.txt
@@ -136,7 +136,7 @@ jupyter notebook
 ```
 
 ### **Execução**
-Abra o arquivo `ice_game_analysis.ipynb` e execute as células sequencialmente.
+Abra o arquivo `Ice_games_analysis.ipynb` e execute as células sequencialmente.
 
 ***
 
