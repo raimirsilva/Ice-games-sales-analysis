@@ -184,13 +184,13 @@ Abra o arquivo `Ice_games_analysis.ipynb` e execute as células sequencialmente.
 
 Este projeto demonstra competências em:
 
-✅ **Limpeza e preparação de dados** com tratamento criterioso de missing values  
-✅ **Análise exploratória de dados (EDA)** com visualizações informativas  
-✅ **Análise temporal** e identificação de tendências  
-✅ **Segmentação regional** e análise comparativa  
-✅ **Testes de hipóteses estatísticas** com interpretação adequada  
-✅ **Storytelling com dados** e comunicação de insights  
-✅ **Documentação técnica** clara e profissional  
+- **Limpeza e preparação de dados** com tratamento criterioso de missing values  
+- **Análise exploratória de dados (EDA)** com visualizações informativas  
+- **Análise temporal** e identificação de tendências  
+- **Segmentação regional** e análise comparativa  
+- **Testes de hipóteses estatísticas** com interpretação adequada  
+- **Storytelling com dados** e comunicação de insights  
+- **Documentação técnica** clara e profissional  
 
 ***
 
