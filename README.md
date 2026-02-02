@@ -145,19 +145,19 @@ Abra o arquivo `Ice_games_analysis.ipynb` e execute as células sequencialmente.
 *Esta seção será atualizada com os principais achados após a conclusão da análise.*
 
 ### **Plataformas**
-- [Insight sobre evolução de plataformas]
-- [Insight sobre market leaders]
+- Evolução: identificou-se um ciclo de vida médio de 6 a 8 anos para consoles; em 2016, o mercado vive o declínio acelerado da 7ª geração (PS3, Xbox 360) e a consolidação definitiva da 8ª geração.
+- Market Leaders: o PS4 consolidou-se como líder global, seguido pelo Xbox One (forte na América do Norte); no Japão, o 3DS mantém a liderança absoluta no segmento portátil.
 
 ### **Gêneros**
-- [Insight sobre gêneros mais lucrativos]
-- [Insight sobre preferências regionais]
+- Lucratividade (ROI): embora Action tenha o maior volume total, gêneros como Shooter, Sports e Platform apresentam melhor equilíbrio entre vendas médias e saturação, oferecendo maior potencial de retorno sobre investimento.
+- Preferências: o gênero Action é onipresente, mas o sucesso comercial em 2017 depende da escolha correta da plataforma para cada nicho.
 
 ### **Avaliações**
-- [Insight sobre impacto de críticas nas vendas]
-- [Insight sobre correlações]
+- Impacto: notas de críticos acima de 7.0 possuem correlação positiva com o aumento de vendas, servindo como um selo de qualidade que impulsiona o desempenho comercial.
+- Correlações: a pontuação dos especialistas tem uma influência estatística muito mais significativa nas vendas do que a avaliação dos usuários, que apresenta correlação fraca ou nula.
 
 ### **Regionalização**
-- [Insight sobre diferenças NA vs EU vs JP]
+- Diferenças regionais: a América do Norte e Europa possuem perfis similares (foco em consoles de mesa e jogos M-rated), enquanto o Japão é um mercado distinto, priorizando consoles portáteis e conteúdo de classificação E/T-rated (RPGs e jogos familiares).
 
 ***
 
